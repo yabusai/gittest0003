@@ -10,4 +10,5 @@
 
 @interface FirstViewController : UIViewController
 @property (assign)NSInteger aaa;
+@property (assign)NSInteger bbb;
 @end
